@@ -1,0 +1,81 @@
+body{
+    background-color: #344a72;
+    font-family: 'Roboto', sans-serif;
+    background: url(signup.png) no-repeat;
+    background-size: cover;
+}
+
+.sign-up{
+    width: 360px;
+    height: 620px;
+    margin: auto;
+    background-color: #fff;
+    border-radius: 3px;
+    width: 420px;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, .2);
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    border-radius: 10px;
+    padding: 30px 40px;
+    
+}
+
+h1{
+    text-align: center;
+    padding-top: 15px;
+}
+
+form{
+    width: 300px;
+    margin-left: 20px;
+}
+
+form label{
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+form input{
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 6px;
+    outline: none;
+}
+
+input[type="button"]{
+    width: 320px;
+    height: 35px;
+    margin-top: 30px;
+    border: none;
+    background-color: #f17575;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+}
+
+p{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15px;
+    color: #fff;
+}
+
+.para{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    margin-top: -10px;
+}
+
+.sign-up u{
+    color: blue;
+}
+
+.para a{
+    color: #49c1a2;
+}
+
+
