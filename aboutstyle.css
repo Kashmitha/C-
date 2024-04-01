@@ -1,0 +1,22 @@
+.about{
+    text-align: right;
+}
+
+.about h1{
+    font-size: 100px;
+}
+
+.about p{
+    color: rgb(115, 5, 137);
+    font-size: 18px;
+    text-align: right;
+}
+
+body{
+    background-color: rgb(207, 147, 245);
+}
+
+.logo{
+    position: relative;
+    top: -560px;
+}

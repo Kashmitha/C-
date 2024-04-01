@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(207, 147, 245);
+}
+
+.contact h1{
+    font-size: 75px;
+}
+
+.contact h4{
+    font-size: 20px;
+}
+.directory a{
+    font-size: 25px;
+}
+
+.logo img{
+    height: 300px;
+}
